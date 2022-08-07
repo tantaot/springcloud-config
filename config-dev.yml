@@ -1,2 +1,2 @@
 config: 
-  test: "dev,version=1"
+  test: "dev,version=2"
